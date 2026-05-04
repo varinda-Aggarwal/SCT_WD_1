@@ -31,7 +31,11 @@ SCT_WD_1/
 [Click here to view](https://varinda-aggarwal.github.io/SCT_WD_1/)
 
 # Screenshots
-<!-- Add screenshots of your project here -->
+![Home Section](assets/Screenshot_1.png)
+![Navigation](assets/Screenshot_2.png)
+![Features](assets/Screenshot_3.png)
+![Pricing](assets/Screenshot_4.png)
+![Footer](assets/Screenshot_5.png)
 
 # Author
 Varinda Aggarwal
