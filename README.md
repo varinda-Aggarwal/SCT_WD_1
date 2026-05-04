@@ -2,16 +2,16 @@
 
 A responsive landing page with an interactive navigation menu built during my Web Development Internship at SkillCraft Technology.
 
-## 📌 Task Description
+# Task Description
 Create a responsive landing page with an interactive navigation menu that:
 - Changes color/style when scrolled
 - Changes style on hover
 - Has a fixed position and is visible on all pages
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+# Technologies Used
+- HTML
+- CSS
+- JavaScript 
 
 ## ✨ Features
 - Fully responsive design
