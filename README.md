@@ -13,29 +13,30 @@ Create a responsive landing page with an interactive navigation menu that:
 - CSS
 - JavaScript 
 
-## ✨ Features
+# Features
 - Fully responsive design
 - Fixed navigation bar
 - Smooth scroll effect on navbar
 - Hover animations on menu items
 - Mobile friendly layout
 
-## 📂 Project Structure
+# Project Structure
 SCT_WD_1/
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+└── README.md
 
-## 🚀 Live Demo
+# Live Demo
 [Click here to view](#) <!-- Add your live link here -->
 
-## 📸 Screenshots
+# Screenshots
 <!-- Add screenshots of your project here -->
 
-## 👩‍💻 Author
+# Author
 Varinda Aggarwal
 Web Development Intern @SkillCraft Technology
 
-## 🔗 Connect
+# Connect
 - GitHub: [@varinda-Aggarwal](https://github.com/varinda-Aggarwal)
 - LinkedIn: [Varinda Aggarwal](https://www.linkedin.com/in/varinda-aggarwal-537101308)
